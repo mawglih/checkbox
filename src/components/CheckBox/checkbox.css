@@ -13,18 +13,12 @@
   height: 30vh;
   flex-wrap: wrap;
 }
-.checkDiv {
-  display: flex;
-  flex-direction: column;
-}
+
 /* .box {
   align-self: flex-start;\
-} */
-.box2 {
-  /* align-self: flex-end; */
-  margin-left: 1rem;
-}
-/* .checkmark {
+} 
+
+.checkmark {
 
   position: absolute;
   top: 0;

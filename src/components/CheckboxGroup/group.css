@@ -1,0 +1,8 @@
+.checkDiv {
+  display: flex;
+  flex-direction: column;
+}
+.box2 {
+  /* align-self: flex-end; */
+  margin-left: 1rem;
+}
